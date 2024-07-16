@@ -17,5 +17,3 @@ public class PracticalWork2 {
 	}
 
 }
-
-//Izveidot metodi, kam padod skaitli. Atgriež true, ja skaitlis dalās ar 10 bez atlikuma.
